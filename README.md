@@ -30,3 +30,6 @@ Here is a some screenshot demonstrating the application:
 Deployed Application: https://progressivewebapp-texteditor.onrender.com
 
 For further questions or contributions, please feel free to reach out!
+
+## Credits
+Thank you for the tips and suggestionsm from Bootcamp instructors, learning assistants, classmates, and resources. Thank you to my tutor Rene for assisting me in refining my code. I have used http: //www.w3schools.com/ and http://www.stackoverflow.com, and https://chat.openai.com to research information. Lastly,thanks to OpenAI's Chatgpt-4 for assistance in creating this README.md template. 
